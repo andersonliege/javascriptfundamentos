@@ -1,9 +1,7 @@
 # Javascript Fundamentos
+Neste readme temos um resumo das variáveis primitivas encontradas no Javascript, bem como seus principais métodos.
+<a href="https://www.linkedin.com/in/anderson-liege-67b38b98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-Tutorial contendo os principais fundamentos de Javascript.
-
-
-## Overview
 ## Variáveis
 Os tipos de variáveis no Javascript podem ser divididas em duas categorias:
 primitivas e objetos. 
