@@ -209,11 +209,6 @@ Symbols, você precisa saber que os tipos de objetos fundamentais no javascript 
 propriedades não ordenadas, onde cada propriedade possui um nome e um valor. Nomes de propriedade são
 tipicamente strings. Porém na ES6 e posteriores, Symbols também podem servir a esse propósito. 
 
-### Null e Undefined ###
-O tipo de dado null é uma palavra reservada do Javascript utilizada para indicar que aquela variável
-não possui nenhum valor, seu valor é nulo. O undefined também indica a ausência de valor, porém 
-em um nível mais profundo. É quando não iniciamos uma variável sem valor por exemplo.
-
 ```javascript 
 let strname = "string name"; // string sendo utilizada como propriedade de um nome
 let symname = Symbol("propname"); // symbol sendo utilizado como propriedade de um nome
@@ -232,3 +227,10 @@ Symbol(propname): 2
 [[Prototype]]: Object
 //
 ```
+
+### Null e Undefined ###
+O tipo de dado null é uma palavra reservada do Javascript utilizada para indicar que aquela variável
+não possui nenhum valor, seu valor é nulo. O undefined também indica a ausência de valor, porém 
+em um nível mais profundo. É quando não iniciamos uma variável sem valor por exemplo.
+
+
